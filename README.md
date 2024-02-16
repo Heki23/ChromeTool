@@ -20,7 +20,7 @@
 <p> Unter "Gespeicherte Profile" finden Sie alle Profile, die auf Ihrem Home-Laufwerk gespeichert sind. Mein Programm speichert Profile standardmäßig im Verzeichnis "Homedrive:/MyChromeProfiles". </p>
 <p> Unter "Ausgewählte Profile" finden Sie Profile, die Sie über die entsprechenden Schaltflächen ausgewählt haben. Wenn Sie auf "Wiederherstellen" klicken, werden die Profile wiederhergestellt, die in der Auswahlliste "Ausgewählte Profile" enthalten sind. </p>
 <p>
-1. Profile herunterladen:
+1. Profile herunterladen:<br>
 [>] lädt das ausgewählte Profil herunter.
 [>>] lädt alle verfügbaren Profile herunter.
 </p><br><p>

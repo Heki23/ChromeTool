@@ -19,7 +19,7 @@
 <p> Unter "Aktive Profile" finden Sie alle Profile, die derzeit in Google Chrome verfügbar sind. </p>
 <p> Unter "Gespeicherte Profile" finden Sie alle Profile, die auf Ihrem Home-Laufwerk gespeichert sind. Mein Programm speichert Profile standardmäßig im Verzeichnis "Homedrive:/MyChromeProfiles". </p>
 <p> Unter "Ausgewählte Profile" finden Sie Profile, die Sie über die entsprechenden Schaltflächen ausgewählt haben. Wenn Sie auf "Wiederherstellen" klicken, werden die Profile wiederhergestellt, die in der Auswahlliste "Ausgewählte Profile" enthalten sind. </p>
-<p>
+<p aling="left">
 1. Profile herunterladen:
 [>] lädt das ausgewählte Profil herunter.
 [>>] lädt alle verfügbaren Profile herunter.

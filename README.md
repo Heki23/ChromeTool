@@ -30,6 +30,7 @@ Verwenden Sie den [>]-Button, um Profile auszuwählen.
 3. Profile erstellen:
 Klicken Sie auf den "Profile erstellen" [+]-Button, um ein neues Profil zu erstellen.
 </p><br>
+
 ### :camera: Screenshots
 
 <div align="center"> <a href=""><img src="https://github.com/Heki23/PraktikumProjekte/blob/main/ChromeTool%20demo.gif" alt='image' width='800'/></a> </div>

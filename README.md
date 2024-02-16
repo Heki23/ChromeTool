@@ -37,15 +37,15 @@ Klicken Sie auf den "Profile erstellen" [+]-Button, um ein neues Profil zu erste
 
 
 
-### :dart: Features
+### :dart: Funktionen
 
-- Restore profiles
-- Transfer Chrome profiles
+- Profile wiederherstellen
+- Chrome-Profile übertragen
 
-### Missing Features
-In 2023 Chrome tool also restored profile picture but in 2024 Chrome updated its file and now profile picture no longer works and you should also provide an email address but in 2023 you should not only that  Enter your password and you're done
+### Fehlende Funktionen
+Im Jahr 2023 stellte das Chrome-Tool auch das Profilbild wieder her, aber im Jahr 2024 aktualisierte Chrome seine Datei und jetzt funktioniert das Profilbild nicht mehr und Sie sollten auch eine E-Mail-Adresse angeben, aber im Jahr 2023 sollten Sie nicht nur Ihr Passwort eingeben, und schon sind Sie fertig
 
-## :handshake: Contact
+## :handshake: Kontakt
 
 Harshdeep Singh - - harshdeep2239@gmail.com
 

@@ -21,14 +21,14 @@
 <p> Unter "Ausgewählte Profile" finden Sie Profile, die Sie über die entsprechenden Schaltflächen ausgewählt haben. Wenn Sie auf "Wiederherstellen" klicken, werden die Profile wiederhergestellt, die in der Auswahlliste "Ausgewählte Profile" enthalten sind. </p>
 <p>
 1. Profile herunterladen:<br>
-[>] lädt das ausgewählte Profil herunter.
-[>>] lädt alle verfügbaren Profile herunter.
-</p><br><p>
-2. Profile auswählen:
-Verwenden Sie den [>]-Button, um Profile auszuwählen.
-</p><br><p>
-3. Profile erstellen:
-Klicken Sie auf den "Profile erstellen" [+]-Button, um ein neues Profil zu erstellen.
+[>] lädt das ausgewählte Profil herunter.<br>
+[>>] lädt alle verfügbaren Profile herunter.<br>
+</p><p>
+2. Profile auswählen:<br>
+Verwenden Sie den [>]-Button, um Profile auszuwählen.<br>
+</p><p>
+3. Profile erstellen:<br>
+Klicken Sie auf den "Profile erstellen" [+]-Button, um ein neues Profil zu erstellen.<br>
 </p><br>
 
 ### :camera: Screenshots

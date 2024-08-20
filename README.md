@@ -8,10 +8,6 @@
 
 </div>
 
-# :notebook_with_decorative_cover: Inhaltsverzeichnis
-
-- [About the Project](#star2-about-the-project)
-- [Contact](#handshake-contact)
 
 
 ## :star2: Über das Projekt
@@ -31,7 +27,7 @@ Verwenden Sie den [>]-Button, um Profile auszuwählen.<br>
 Klicken Sie auf den "Profile erstellen" [+]-Button, um ein neues Profil zu erstellen.<br>
 </p><br>
 
-### :camera: Screenshots
+### :camera: Preview
 
 <div align="center"> <a href=""><img src="https://github.com/Heki23/PraktikumProjekte/blob/main/ChromeTool%20demo.gif" alt='image' width='800'/></a> </div>
 
@@ -42,11 +38,6 @@ Klicken Sie auf den "Profile erstellen" [+]-Button, um ein neues Profil zu erste
 - Profile wiederherstellen
 - Chrome-Profile übertragen
 
-### Fehlende Funktionen
-Im Jahr 2023 stellte das Chrome-Tool auch das Profilbild wieder her, aber im Jahr 2024 aktualisierte Chrome seine Datei und jetzt funktioniert das Profilbild nicht mehr und Sie sollten auch eine E-Mail-Adresse angeben, aber im Jahr 2023 sollten Sie nicht nur Ihr Passwort eingeben, und schon sind Sie fertig
 
-## :handshake: Kontakt
 
-Harshdeep Singh - - harshdeep2239@gmail.com
 
-Project Link: [https://github.com/Heki23/PraktikumProjekte](https://github.com/Heki23/PraktikumProjekte)

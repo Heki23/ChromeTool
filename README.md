@@ -1,7 +1,7 @@
 <div align='center'>
 
 <h1> Tool zur Chrome-Profilwiederherstellung</h1>
-<p>Das ist mein Praktikumsprojekt. Mit meinem Tool können Sie Ihr Chrome-Profil ohne viele Klicks wiederherstellen. Sie können das Profil von Computer A ganz einfach auf Computer B übertragen. Meine Software stellt Ihre Themes, den angehefteten Link und vieles mehr wieder her. </p>
+<p>Das ist mein Praktikumsprojekt. Mit meinem Tool können Sie Ihr Chrome-Profil ohne viele Klicks wiederherstellen. Sie können das Profil von Computer A ganz einfach auf Computer B übertragen. </p>
 
 <h4> <span> · </span> <a href="https://github.com/Heki23/PraktikumProjekte/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/Heki23/PraktikumProjekte/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/Heki23/PraktikumProjekte/issues"> Request Feature </a> </h4>
 
